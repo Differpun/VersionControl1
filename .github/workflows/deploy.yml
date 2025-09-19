@@ -1,4 +1,4 @@
-premission:
+permissions:
   contents: write
 name: CI/CD Pipeline for Quasar
 on:
